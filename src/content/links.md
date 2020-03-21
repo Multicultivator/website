@@ -1,17 +1,25 @@
 # Uporabne povezave
 
 
-## Druge statistike, vizualizacije, simulacije
+## Statistike, vizualizacije, simulacije, projekcije - Slovenija
 
-| Opis | Povezava |
+| Povezava | Opis |
 --- | --- |
-| Alpaka: primerjave SLO z drugimi državami | http://www.alpaka.si/koronavirus/ |
-| Zemljevid okužb & nadzorna plošča - SLO | https://mediastream.si/korona.php |
-| Zemljevid okužb& nadzorna plošča - SLO (by Alenka Jelen) | https://gdiljubljana.maps.arcgis.com/apps/opsdashboard/index.html#/1cf4f90e05984ae5a365f4838f746138 |
-| CoVID 19 Worldwide Growth Rates (by Mark Handley, UCL) | http://nrg.cs.ucl.ac.uk/mjh/covid19/ |
-| WHO Covid-19 World Situation Dashboard | https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd |
+| [Alpaka: primerjave SLO z drugimi državami](http://www.alpaka.si/koronavirus/ "Alpaka: primerjave SLO z drugimi državami") | Primerjava širitve COVID-19 v SLO z drugimi državami po različnih kriterijih, več kriterijev; [Nace Štruc](http://nace.si "Nace Štruc")|
+| [Zemljevid okužb & nadzorna plošča - SLO](https://mediastream.si/korona.php "Zemljevid okužb & nadzorna plošča - SLO") | Enostavna nadzorna plošča; Mediastream |
+| [Zemljevid okužb& nadzorna plošča - SLO ](https://gdiljubljana.maps.arcgis.com/apps/opsdashboard/index.html#/1cf4f90e05984ae5a365f4838f746138 "Zemljevid okužb& nadzorna plošča - SLO ") | Enostavna nadzorna plošča; Alenka Jelen |
 | Udomačena statistika (do 14.4.). | https://udomacenastatistika.wordpress.com/2020/03/13/rast-koronavirusa-v-sloveniji-do-12-3-2020/ |
 | Projekcija/primerjava št. primerov za SLO (Andraž Stalec) | https://www.facebook.com/andraz.stalec/posts/10157326285444205 |
+| Simulacija karantena/brez karantene za SLO (Žiga Zaplotnik) | https://twitter.com/ZaplotnikZiga/status/1239848814879612928 |
+| [Mladi zdravniki FB; Model 2 scenarijev poteka COVID-19](https://www.facebook.com/MladiZdravnikiSI/posts/3098302770267474?__xts__%5B0%5D=68.ARCh0tVKUGqSGO-o_4qIh1Hd2s3Ql0XgPa9d0KL8XJ9h56mwrSt4825uJQF6SC92t_PMIx8Vgwu1ZfUEEBuAkFRtuQ3sA5jq-jnh6zCklfqf0DJYmyRcoh36ehjdL_E9NkF_KoU662hb2J2JUJy_NDJVpcM65No3IZfE7ouslxhTmHlk9sE9hR7fvzQJvkFgZfvrAA3pKcJJjlinBoJFhAOQNUfFawEfi6GLu6sDTjqiUlOg-c8qb0PTprm01bjMe94teq6PYYoJYjPk2MbmacxUgSX284-j6wysFLsT8icIsfeU_xSQ6QbBLHMc_gF2LEywJFj5-PPFZxurhSuGkVuPZGom&__tn__=-R "Mladi zdravniki FB; Model 2 scenarijev poteka COVID-19") | Avtor Luka Medic v sodelovanju s Sanja Zupanič, dr. med |
+
+
+## Statistike, vizualizacije, simulacije - Svet
+
+| Povezava | Opis |
+--- | --- |
+| CoVID 19 Worldwide Growth Rates (by Mark Handley, UCL) | http://nrg.cs.ucl.ac.uk/mjh/covid19/ |
+| WHO Covid-19 World Situation Dashboard | https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd |
 | Covid-19 World Dashboard by Center for Systems Science and Engineering | https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 |
 | Worldometer | https://www.worldometers.info/coronavirus |
 | Day Zero grafi | https://behroozh.shinyapps.io/COVID19/ |
@@ -40,7 +48,7 @@
 | Visualizing the spread of viruses in a population by @swizec | https://corona-simulation.now.sh/ |
 | Visualizing how viruses spread in a population (by Swizec Teller) | https://reactfordataviz.com/articles/corona-simulation/ |
 | Outbreak - playable disease simulaton | https://meltingasphalt.com/interactive/outbreak/ |
-| Simulacija karantena/brez karantene za SLO (Žiga Zaplotnik) | https://twitter.com/ZaplotnikZiga/status/1239848814879612928 |
+
 
 ## Ostalo
 
