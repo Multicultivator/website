@@ -19,6 +19,7 @@ Uredniki baze in ostali sodelavci:
 -   [Gašper Mramor](https://www.linkedin.com/in/gaspermramor) - podatkovni model in validacija, viri
 -   [Grega Milčinski](https://www.linkedin.com/in/gregamilcinski/) - viri, validacija podatkov
 -   [Igor Brejc](https://twitter.com/breki74) - vizualizacije
+-   [Janez Gorenc](https://si.linkedin.com/in/janez-gorenc-03415868) - prevodi
 -   [Janez Žibert](https://pacs.zf.uni-lj.si/janez-zibert/) - modeliranje
 -   [Joh Dokler](https://github.com/joahim) - vizualizacije
 -   [Jure Sobočan](https://www.linkedin.com/in/juresobocan) - logo, grafično oblikovanje
